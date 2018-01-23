@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SwiftFistBlood.xcodeproj">
+      location = "self:/hadexs_demo_work_spase/SwiftFistBlood/SwiftFirstBlood.xcodeproj">
    </FileRef>
 </Workspace>
